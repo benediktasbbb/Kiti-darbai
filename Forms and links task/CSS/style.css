@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: lightskyblue;
+}
+
+h1 {
+    margin: 10px auto;
+    color: green;
+}
+
+main {
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
